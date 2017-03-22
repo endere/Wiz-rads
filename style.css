@@ -18,6 +18,7 @@ td{
   position: relative;
   right: 12px;
   bottom: 68px;
+  /*mix-blend-mode: multiply;*/
 }
 tr{
   position: relative;
@@ -44,4 +45,10 @@ p{
   width: 480px;
   box-sizing: border-box;
   margin-top: -5px;
+}
+.diceOne{
+}
+.diceTwo{
+}
+.diceThree{
 }
